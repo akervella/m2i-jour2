@@ -1,0 +1,24 @@
+From 6fd185657c782b39291ad28c824175bdaacb065e Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Andr=C3=A9=20Kervella?= <akervella@cegid.com>
+Date: Thu, 7 Nov 2019 09:52:54 +0100
+Subject: [PATCH 1/2] commit README
+
+---
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 780dd1c..d61bd1a 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,5 @@
+-# m2i-jour2
+\ No newline at end of file
++# m2i-jour2
++
++avec le patch
++-------------
++méthode git
+-- 
+2.24.0.windows.1
+

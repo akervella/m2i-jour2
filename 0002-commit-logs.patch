@@ -1,0 +1,21 @@
+From 72235b6760da9dd3ec8fbf7367be9a2e200d509d Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Andr=C3=A9=20Kervella?= <akervella@cegid.com>
+Date: Thu, 7 Nov 2019 09:53:20 +0100
+Subject: [PATCH 2/2] commit logs
+
+---
+ .gitignore    | 0
+ logs/.gitkeep | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 logs/.gitkeep
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+diff --git a/logs/.gitkeep b/logs/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.24.0.windows.1
+
